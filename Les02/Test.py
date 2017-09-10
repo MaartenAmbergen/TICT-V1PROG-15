@@ -1,0 +1,1 @@
+cijferICOR = float(input('Wat is je cijfer voor ICOR: '))
